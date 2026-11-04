@@ -4,35 +4,41 @@ Exercise 06: Booleans & Comparisons
 Implement each function below. Run this file directly to self-check:
     python3 exercise.py
 """
+# 中文翻译：本文件的练习说明和运行方式。
 
 
 def is_falsy(value):
     """Return True if Python would treat `value` as falsy in an `if` check."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def in_range(n, low, high):
     """Return whether n is between low and high, inclusive. Use a chained comparison."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def both_positive(a, b):
     """Return True only if both a and b are greater than 0."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def at_least_one_true(a, b, c):
     """Return True if at least one of a, b, c is True."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def flip(value):
     """Return the boolean opposite of value."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 

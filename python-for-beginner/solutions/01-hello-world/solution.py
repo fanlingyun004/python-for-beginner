@@ -1,4 +1,5 @@
 """Reference solution for Exercise 01: Hello, World & Comments."""
+# 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
 
 
 def hello_world():
@@ -6,7 +7,7 @@ def hello_world():
 
 
 def say_hello(name):
-    # Concatenation: gluing strings together with +.
+    # Concatenation: gluing strings together with +.（字符串拼接：使用 + 将多个字符串连接起来。）
     return "Hello, " + name + "!"
 
 

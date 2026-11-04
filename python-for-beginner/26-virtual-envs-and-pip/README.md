@@ -1,9 +1,8 @@
 # 26 — Virtual Environments & pip
 
-No `exercise.py` self-check for this one — it's tooling, best learned by
-actually doing it once. Treat the "Do this now" section as the exercise;
-there's no automated grader, but each step tells you what to check for
-yourself.
+## 中文说明
+
+本模块讲解虚拟环境、pip、依赖安装和 requirements.txt，并实际创建隔离环境。
 
 ## Concept
 

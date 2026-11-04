@@ -1,5 +1,9 @@
 # 03 — Numbers & Operators
 
+## 中文说明
+
+本模块学习整数、浮点数、算术运算符、整除、取模、幂运算和优先级。请特别注意 / 与 // 的区别，以及浮点数的精度问题。
+
 ## Concept
 
 ### Two kinds of numbers

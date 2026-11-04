@@ -1,5 +1,9 @@
 # 11 — Dictionaries
 
+## 中文说明
+
+本模块介绍字典的键值对、查找、增删改和遍历。字典适合用有意义的键访问结构化数据。
+
 ## Concept
 
 A **dictionary** (`dict`) stores **key → value** pairs — instead of

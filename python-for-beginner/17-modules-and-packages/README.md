@@ -1,5 +1,9 @@
 # 17 — Modules & Packages
 
+## 中文说明
+
+本模块说明如何拆分模块和包，使用 import、别名和 __name__，并理解项目的文件组织方式。
+
 ## Concept
 
 A **module** is just a `.py` file. A **package** is a folder of modules

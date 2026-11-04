@@ -1,10 +1,8 @@
 # Python Practice
 
-A personal Python learning repo. The main thing here is
-**[python-for-beginner](python-for-beginner/README.md)** — a complete,
-self-paced Python course for someone with **no prior programming
-experience at all**, going from "hello world" through every core
-language concept to three complete, terminal-based capstone projects.
+## 中文说明
+
+这是一个面向零基础学习者的 Python 入门仓库。建议先阅读 SETUP.md 配置环境，再按课程目录顺序学习。每个模块都提供概念讲解、示例和练习，完成后可以用 Git 记录学习进度。
 
 ## Repo structure
 

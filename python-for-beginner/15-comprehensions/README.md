@@ -1,5 +1,9 @@
 # 15 — Comprehensions
 
+## 中文说明
+
+本模块介绍列表、字典和集合推导式，用简洁表达式完成遍历、转换、筛选和收集。
+
 ## Concept
 
 A **comprehension** is a compact, one-line way to build a list, dict, or

@@ -1,5 +1,9 @@
 # 25 — Regular Expressions
 
+## 中文说明
+
+本模块介绍正则表达式和 re 模块，用于匹配、提取和替换复杂文本。
+
 ## Concept
 
 A **regular expression** (regex) is a pattern for matching text — far

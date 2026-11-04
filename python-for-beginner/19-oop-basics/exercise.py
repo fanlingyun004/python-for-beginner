@@ -5,27 +5,32 @@ Implement the BankAccount class below. Run this file directly to
 self-check:
     python3 exercise.py
 """
+# 中文翻译：本文件的练习说明和运行方式。
 
 
 class BankAccount:
     def __init__(self, owner, balance=0):
         """Store owner and balance as instance attributes."""
-        # TODO: implement
+        # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+        # TODO: implement（待完成：实现此函数）
         raise NotImplementedError
 
     def deposit(self, amount):
         """Add amount to self.balance."""
-        # TODO: implement
+        # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+        # TODO: implement（待完成：实现此函数）
         raise NotImplementedError
 
     def withdraw(self, amount):
         """Subtract amount from self.balance; raise ValueError if amount > balance."""
-        # TODO: implement
+        # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+        # TODO: implement（待完成：实现此函数）
         raise NotImplementedError
 
     def get_balance(self):
         """Return the current balance."""
-        # TODO: implement
+        # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+        # TODO: implement（待完成：实现此函数）
         raise NotImplementedError
 
 
@@ -45,14 +50,14 @@ def _check():
         assert False, "expected ValueError"
     except ValueError as e:
         assert str(e) == "insufficient funds"
-    assert account.get_balance() == 120  # unchanged after failed withdrawal
+    assert account.get_balance() == 120  # unchanged after failed withdrawal（取款失败后余额保持不变）
 
-    # instances are independent
-    other = BankAccount("Sam")  # default balance
+    # instances are independent（各个实例彼此独立）
+    other = BankAccount("Sam")  # default balance（默认余额）
     assert other.get_balance() == 0
     other.deposit(10)
     assert other.get_balance() == 10
-    assert account.get_balance() == 120  # unaffected by `other`
+    assert account.get_balance() == 120  # unaffected by `other`（中文说明：unaffected by `other`）
 
     print("All checks passed!")
 

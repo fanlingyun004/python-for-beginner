@@ -1,5 +1,9 @@
 # 23 — Decorators
 
+## 中文说明
+
+本模块学习装饰器、闭包和 @decorator 语法，在不修改函数主体的情况下扩展行为。
+
 ## Concept
 
 A **decorator** wraps a function with extra behavior, without changing

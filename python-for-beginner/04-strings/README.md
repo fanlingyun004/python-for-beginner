@@ -1,5 +1,9 @@
 # 04 — Strings
 
+## 中文说明
+
+本模块系统学习字符串的索引、切片、长度、常用方法、转义字符和 f-string。字符串不可变，很多方法会返回新字符串。
+
 ## Concept
 
 A **string** (`str`) is text: anything wrapped in `"double"` or

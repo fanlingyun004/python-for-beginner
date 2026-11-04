@@ -4,31 +4,36 @@ Exercise 14: Scope & Recursion
 Implement each function below. Run this file directly to self-check:
     python3 exercise.py
 """
+# 中文翻译：本文件的练习说明和运行方式。
 
-counter = 0  # module-level global used by increment_counter()
+counter = 0  # module-level global used by increment_counter()（供 increment_counter() 使用的模块级全局变量）
 
 
 def increment_counter():
     """Increment the global `counter` by 1, using the `global` keyword."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def factorial(n):
     """Return n! recursively. factorial(0) == factorial(1) == 1 (base case)."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def fibonacci(n):
     """Return the nth Fibonacci number recursively (fibonacci(0) == 0, fibonacci(1) == 1)."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def sum_recursive(numbers):
     """Return the sum of numbers, recursively (no sum(), no loop)."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 

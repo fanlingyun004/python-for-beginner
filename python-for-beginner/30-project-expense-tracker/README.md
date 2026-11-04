@@ -1,8 +1,8 @@
 # 30 — Project: Expense Tracker
 
-No `exercise.py` stub, no `assert`-based grader — this is the final,
-most complete open-ended build, using everything from modules 01–27.
-Build it, then check it against the requirements yourself.
+## 中文说明
+
+这是最终的终端记账本项目，记录支出、按类别汇总、保存 JSON 数据并生成统计摘要。
 
 ## What to build
 

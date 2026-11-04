@@ -1,5 +1,9 @@
 # 01 — Hello, World & Comments
 
+## 中文说明
+
+本模块介绍程序、print()、字符串、换行符和注释，并说明如何运行 .py 文件以及为什么缩进很重要。练习会让你返回 Hello World、拼接问候语并生成两行文本。
+
 ## Concept
 
 A **program** is just a list of instructions a computer runs, one at a

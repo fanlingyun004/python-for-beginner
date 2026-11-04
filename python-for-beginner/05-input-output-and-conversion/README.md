@@ -1,5 +1,9 @@
 # 05 — Input, Output & Type Conversion
 
+## 中文说明
+
+本模块介绍 input()、print() 和类型转换。input() 得到的内容总是字符串，需要用 int() 或 float() 转换后才能进行数值运算。
+
 ## Concept
 
 ### Getting input from the user

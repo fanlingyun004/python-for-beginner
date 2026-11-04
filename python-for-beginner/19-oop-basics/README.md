@@ -1,5 +1,9 @@
 # 19 — OOP Basics (Classes & Objects)
 
+## 中文说明
+
+本模块引入面向对象编程，讲解类、对象、属性、方法、构造函数和 self。
+
 ## Concept
 
 Everything so far has been either data (numbers, strings, lists, dicts)

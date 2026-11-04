@@ -4,35 +4,41 @@ Exercise 12: Sets
 Implement each function below. Run this file directly to self-check:
     python3 exercise.py
 """
+# 中文翻译：本文件的练习说明和运行方式。
 
 
 def unique_items(items):
     """Return the set of unique items in the list."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def common_elements(a, b):
     """Return the set of elements present in both list a and list b."""
-    # TODO: implement using set intersection (&)
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement using set intersection (&)（待完成：使用集合交集（&）实现）
     raise NotImplementedError
 
 
 def only_in_first(a, b):
     """Return the set of elements in list a that are NOT in list b."""
-    # TODO: implement using set difference (-)
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement using set difference (-)（待完成：使用集合差集（-）实现）
     raise NotImplementedError
 
 
 def add_item(s, item):
     """Add item to set s (mutate it) and return s."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def is_subset(a, b):
     """Return whether every element of set a is also in set b."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 

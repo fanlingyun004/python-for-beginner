@@ -1,8 +1,8 @@
 # 29 — Project: Contact Book
 
-No `exercise.py` stub, no `assert`-based grader — this is an open-ended
-build using everything from modules 01–20 (classes included). Build it,
-then check it against the requirements yourself.
+## 中文说明
+
+这是联系人簿项目，综合练习函数、文件 I/O、JSON、异常处理和面向对象，并实现联系人增删改查。
 
 ## What to build
 

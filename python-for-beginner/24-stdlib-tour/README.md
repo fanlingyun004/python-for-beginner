@@ -1,5 +1,9 @@
 # 24 — Standard Library Tour
 
+## 中文说明
+
+本模块浏览 pathlib、datetime、json、collections、itertools 等实用标准库模块。
+
 ## Concept
 
 You've already used a few standard library modules (`math`, `random` in

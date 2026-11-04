@@ -1,5 +1,9 @@
 # 18 — File I/O
 
+## 中文说明
+
+本模块学习文件读写、路径、编码和 with open()。文件可以让数据在程序结束后继续保存。
+
 ## Concept
 
 So far every program has lost all its data the moment it finished

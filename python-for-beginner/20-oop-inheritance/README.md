@@ -1,5 +1,9 @@
 # 20 — Inheritance & Dunder Methods
 
+## 中文说明
+
+本模块学习继承、方法重写、super() 和双下划线方法，理解父类与子类如何复用行为。
+
 ## Concept
 
 ### Inheritance

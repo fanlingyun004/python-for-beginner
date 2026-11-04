@@ -5,35 +5,41 @@ Implement each function below using a comprehension. Run this file
 directly to self-check:
     python3 exercise.py
 """
+# 中文翻译：本文件的练习说明和运行方式。
 
 
 def squares_up_to(n):
     """Return [1, 4, 9, ...] — squares of 1 through n inclusive."""
-    # TODO: implement using a list comprehension
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement using a list comprehension（待完成：使用列表推导式实现）
     raise NotImplementedError
 
 
 def evens_only(numbers):
     """Return a list of just the even numbers from `numbers`, order preserved."""
-    # TODO: implement using a list comprehension
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement using a list comprehension（待完成：使用列表推导式实现）
     raise NotImplementedError
 
 
 def upper_words(words):
     """Return a new list with every word in `words` uppercased."""
-    # TODO: implement using a list comprehension
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement using a list comprehension（待完成：使用列表推导式实现）
     raise NotImplementedError
 
 
 def length_map(words):
     """Return a dict mapping each word in `words` to its length."""
-    # TODO: implement using a dict comprehension
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement using a dict comprehension（待完成：使用字典推导式实现）
     raise NotImplementedError
 
 
 def unique_lengths(words):
     """Return a set of the distinct word lengths present in `words`."""
-    # TODO: implement using a set comprehension
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement using a set comprehension（待完成：使用集合推导式实现）
     raise NotImplementedError
 
 

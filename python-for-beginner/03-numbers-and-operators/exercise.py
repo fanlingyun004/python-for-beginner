@@ -4,35 +4,41 @@ Exercise 03: Numbers & Operators
 Implement each function below. Run this file directly to self-check:
     python3 exercise.py
 """
+# 中文翻译：本文件的练习说明和运行方式。
 
 
 def average(a, b, c):
     """Return the average of three numbers as a float."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def remainder(a, b):
     """Return a modulo b (the remainder of a / b)."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def power(base, exponent):
     """Return base raised to exponent."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def floor_divide(a, b):
     """Return the floored (rounded down) integer division of a by b."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def round_to(number, digits):
     """Return number rounded to `digits` decimal places."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 

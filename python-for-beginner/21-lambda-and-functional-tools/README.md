@@ -1,5 +1,9 @@
 # 21 — Lambda & Functional Tools
 
+## 中文说明
+
+本模块把函数当作值来使用，介绍 lambda、map()、filter()、sorted(key=...) 和高阶函数。
+
 ## Concept
 
 ### Functions are values

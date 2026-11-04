@@ -1,5 +1,9 @@
 # 14 — Scope & Recursion
 
+## 中文说明
+
+本模块解释局部、全局和 nonlocal 作用域，以及递归函数。递归必须有明确的终止条件。
+
 ## Concept
 
 ### What is scope?

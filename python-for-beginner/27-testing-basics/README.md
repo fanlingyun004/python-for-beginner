@@ -1,5 +1,9 @@
 # 27 — Testing Basics
 
+## 中文说明
+
+本模块用 pytest 把断言发展成正式测试，学习测试文件、测试函数、参数化和运行测试套件。
+
 ## Concept
 
 Every `exercise.py` in this course has ended with a `_check()` function

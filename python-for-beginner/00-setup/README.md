@@ -1,7 +1,8 @@
 # 00 — Setup
 
-No exercise here — just get your computer ready. Do this once, carefully,
-and everything after this is smooth.
+## 中文说明
+
+本模块帮助你准备 Python 学习环境，并理解解释器、终端、编辑器和虚拟环境。请亲自运行第一个 Python 命令，确认能执行脚本并看到输出。
 
 ## What you're installing and why
 

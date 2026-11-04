@@ -1,5 +1,9 @@
 # 02 — Variables & Data Types
 
+## 中文说明
+
+本模块讲解变量、赋值和常见数据类型，重点理解变量名如何指向值、类型如何影响运算，以及如何用 type() 检查类型。
+
 ## Concept
 
 ### What is a variable?

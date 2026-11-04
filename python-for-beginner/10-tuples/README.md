@@ -1,5 +1,9 @@
 # 10 — Tuples
 
+## 中文说明
+
+本模块讲解有序但不可变的元组，学习创建、解包、索引，以及元组与列表的区别。
+
 ## Concept
 
 A **tuple** is an ordered collection, just like a list — but written with

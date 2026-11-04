@@ -4,29 +4,34 @@ Exercise 02: Variables & Data Types
 Implement each function below. Run this file directly to self-check:
     python3 exercise.py
 """
+# 中文翻译：本文件的练习说明和运行方式。
 
 
 def type_name(value):
     """Return the name of value's type as a string, e.g. type_name(1) == "int"."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def is_none(value):
     """Return True if value is None, False otherwise. Use `is`, not `==`."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def swap(a, b):
     """Return (b, a) using multiple assignment, not a temp variable."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def describe_person(name, age):
     """Return an f-string: "<name> is <age> years old."."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 

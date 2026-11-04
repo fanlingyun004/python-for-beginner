@@ -1,5 +1,9 @@
 # 13 — Functions
 
+## 中文说明
+
+本模块开始编写自己的函数，涵盖参数、返回值、默认参数和关键字参数。函数能够封装逻辑并提高复用性。
+
 ## Concept
 
 You've been *calling* functions since module 01 (`print()`, `len()`,

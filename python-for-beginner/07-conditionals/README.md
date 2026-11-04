@@ -1,5 +1,9 @@
 # 07 — Conditionals (if / elif / else)
 
+## 中文说明
+
+本模块学习 if、elif、else 条件分支和代码块缩进，练习让程序根据多个条件做出正确决策。
+
 ## Concept
 
 A conditional lets your program **choose** which code to run based on a

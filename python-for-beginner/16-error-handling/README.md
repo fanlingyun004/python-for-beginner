@@ -1,5 +1,9 @@
 # 16 — Error Handling (try / except)
 
+## 中文说明
+
+本模块学习异常、try/except/else/finally 和主动抛出异常，练习识别错误并给出友好提示。
+
 ## Concept
 
 You've seen plenty of errors already — `ValueError`, `TypeError`,

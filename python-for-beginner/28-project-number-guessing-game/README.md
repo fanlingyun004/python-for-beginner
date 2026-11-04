@@ -1,11 +1,8 @@
 # 28 — Project: Number Guessing Game
 
-No `exercise.py` stub, no `assert`-based grader — this is an open-ended
-build using everything from modules 01–16. Build it, then check it
-against the requirements yourself (that self-verification is part of the
-exercise, same as it would be shipping a real feature). This is the
-simplest of the three capstone projects — a good first "put it all
-together" build before the two bigger ones.
+## 中文说明
+
+这是第一个综合项目：制作终端猜数字游戏，综合随机数、输入校验、循环、条件分支和异常处理。
 
 ## What to build
 

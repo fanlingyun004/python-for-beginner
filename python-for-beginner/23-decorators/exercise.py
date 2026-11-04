@@ -5,12 +5,14 @@ Implement the two decorators below, then apply them (already done, at
 the bottom) to `shout` and `greet`. Run this file directly to self-check:
     python3 exercise.py
 """
+# 中文翻译：本文件的练习说明和运行方式。
 
 
 def uppercase_result(func):
     """Decorator: call func(*args, **kwargs), return its result uppercased."""
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
     def wrapper(*args, **kwargs):
-        # TODO: implement
+        # TODO: implement（待完成：实现此函数）
         raise NotImplementedError
     return wrapper
 
@@ -18,8 +20,9 @@ def uppercase_result(func):
 def count_calls(func):
     """Decorator: track how many times the wrapped function has been called
     on a `.calls` attribute of the wrapper, starting at 0."""
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
     def wrapper(*args, **kwargs):
-        # TODO: implement
+        # TODO: implement（待完成：实现此函数）
         raise NotImplementedError
     wrapper.calls = 0
     return wrapper

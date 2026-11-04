@@ -4,6 +4,7 @@ Exercise 17: Modules & Packages
 Implement each function below. Run this file directly to self-check:
     python3 exercise.py
 """
+# 中文翻译：本文件的练习说明和运行方式。
 
 import math
 import random
@@ -13,25 +14,29 @@ import mymath
 
 def circle_area(radius):
     """Return the area of a circle with the given radius, using math.pi."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def square_root(n):
     """Return the square root of n, using math.sqrt."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def random_in_range(low, high):
     """Return a random integer between low and high, inclusive, using random.randint."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def square_and_cube(n):
     """Return (mymath.square(n), mymath.cube(n))."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 

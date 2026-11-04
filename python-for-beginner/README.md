@@ -1,14 +1,8 @@
 # Python for Beginners
 
-A complete, self-paced Python course for someone who has **never written a
-line of code before**. No prior programming experience assumed — every
-module starts from "what is this and why would I use it" and builds up with
-small, runnable examples.
+## 中文说明
 
-This course assumes zero prior programming experience — if you already
-know how to program in another language, most of the early modules will
-feel slow; skim ahead to whichever module covers the first Python-specific
-idea you don't already know.
+这是一套从零开始的自学课程，不要求编程经验。请按模块顺序学习基础语法、数据结构、函数、文件、面向对象和测试，最后完成三个终端项目。建议先读说明，再运行示例，最后独立完成练习。
 
 ## How to use this
 

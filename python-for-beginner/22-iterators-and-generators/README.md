@@ -1,5 +1,9 @@
 # 22 — Iterators & Generators
 
+## 中文说明
+
+本模块解释迭代器协议、生成器函数和 yield。生成器按需产生数据，适合处理数据流。
+
 ## Concept
 
 ### What actually makes `for` work

@@ -1,5 +1,9 @@
 # 09 — Loops (for / while)
 
+## 中文说明
+
+本模块学习 for、while、range()、嵌套循环、break 和 continue，并练习设计正确的循环终止条件。
+
 ## Concept
 
 Loops repeat a block of code, so you don't hand-write the same operation

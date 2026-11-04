@@ -1,5 +1,9 @@
 # 12 — Sets
 
+## 中文说明
+
+本模块学习集合的去重特性、成员判断、并集、交集和差集，并了解集合不支持按位置索引。
+
 ## Concept
 
 A **set** is an unordered collection of **unique** values — duplicates

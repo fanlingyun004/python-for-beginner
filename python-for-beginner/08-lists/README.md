@@ -1,5 +1,9 @@
 # 08 — Lists
 
+## 中文说明
+
+本模块介绍列表这一有序、可变的数据结构，包括索引、切片、增删改、排序和遍历。
+
 ## Concept
 
 A **list** is an ordered collection of values, written with square

@@ -1,4 +1,5 @@
 """Reference solution for Exercise 20: Inheritance & Dunder Methods."""
+# 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
 
 
 class Animal:

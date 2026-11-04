@@ -1,12 +1,8 @@
 # Setup Guide — Virtual Environments (venv)
 
-This is the practical, "do this to get this repo running" guide. If you
-want the conceptual explanation as part of the course curriculum, that's
-[python-for-beginner/26-virtual-envs-and-pip](python-for-beginner/26-virtual-envs-and-pip/README.md)
-— read this one first, it's shorter and gets you unblocked immediately.
+## 中文说明
 
-You only need this once per machine, and then once per fresh clone of
-this repo.
+本指南用于配置项目环境：安装 Python 3.10 或更高版本、创建并激活虚拟环境、安装 requirements.txt 中的依赖，以及排查常见问题。通常每台电脑配置一次，重新克隆项目时再创建新的虚拟环境。
 
 ## What is a virtual environment?
 

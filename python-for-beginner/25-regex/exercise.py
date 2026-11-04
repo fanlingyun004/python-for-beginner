@@ -4,37 +4,43 @@ Exercise 25: Regular Expressions
 Implement each function below. Run this file directly to self-check:
     python3 exercise.py
 """
+# 中文翻译：本文件的练习说明和运行方式。
 
 import re
 
 
 def contains_digit(text):
     """Return whether text contains at least one digit."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def extract_numbers(text):
     """Return a list of every run of digits in text, as strings."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def mask_digits(text):
     """Return text with every run of digits replaced by "#"."""
-    # TODO: implement
+    # 中文翻译：将文本中连续出现的一段数字替换为“#”。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def is_valid_hex_color(text):
     """Return whether text is "#" followed by exactly 6 hex digits."""
-    # TODO: implement (anchor with ^ and $)
+    # 中文翻译：判断文本是否为“#”后跟恰好 6 位十六进制数字。
+    # TODO: implement (anchor with ^ and $)（待完成：实现，并使用 ^ 和 $ 进行锚定）
     raise NotImplementedError
 
 
 def extract_date_parts(text):
     """Find a YYYY-MM-DD date in text; return (year, month, day) strings, or None."""
-    # TODO: implement using capture groups
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement using capture groups（待完成：使用捕获组实现）
     raise NotImplementedError
 
 

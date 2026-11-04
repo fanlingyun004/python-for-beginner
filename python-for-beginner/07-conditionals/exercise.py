@@ -4,35 +4,41 @@ Exercise 07: Conditionals (if / elif / else)
 Implement each function below. Run this file directly to self-check:
     python3 exercise.py
 """
+# 中文翻译：本文件的练习说明和运行方式。
 
 
 def classify_number(n):
     """Return "negative", "zero", or "positive" depending on n."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def letter_grade(score):
     """Return a letter grade: 90+ A, 80-89 B, 70-79 C, 60-69 D, below 60 F."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def largest_of_three(a, b, c):
     """Return the largest of a, b, c using if/elif/else (not max())."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def describe_temperature(celsius):
     """Return "freezing" (<=0), "cold" (<=15), "warm" (<=25), else "hot"."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 
 def abs_value(n):
     """Return the absolute value of n using a one-line conditional expression."""
-    # TODO: implement
+    # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
+    # TODO: implement（待完成：实现此函数）
     raise NotImplementedError
 
 

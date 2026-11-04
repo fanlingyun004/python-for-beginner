@@ -1,5 +1,9 @@
 # 06 — Booleans & Comparisons
 
+## 中文说明
+
+本模块讲解布尔值、比较运算符、and、or、not 以及真值判断，为后续的条件分支打基础。
+
 ## Concept
 
 ### `bool`, the yes/no type
