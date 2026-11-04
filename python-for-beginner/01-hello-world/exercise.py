@@ -11,21 +11,22 @@ def hello_world():
     """Return the exact string "Hello, World!"."""
     # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
     # TODO: implement（待完成：实现此函数）
-    raise NotImplementedError
+    return "Hello, World!"
+    
 
 
 def say_hello(name):
     """Return "Hello, <name>!" built using string concatenation (+)."""
     # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
     # TODO: implement（待完成：实现此函数）
-    raise NotImplementedError
+    return "Hello, "+ name +"!"
 
 
 def two_lines():
     """Return one string that prints as two lines: "First line" then "Second line"."""
     # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
     # TODO: implement（待完成：实现此函数）
-    raise NotImplementedError
+    return "First line\nSecond line"
 
 
 def _check():
