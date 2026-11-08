@@ -10,15 +10,14 @@ Implement each function below. Run this file directly to self-check:
 def type_name(value):
     """Return the name of value's type as a string, e.g. type_name(1) == "int"."""
     # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
-    # TODO: implement（待完成：实现此函数）
-    raise NotImplementedError
+    return type(value).__name__
+    
 
 
 def is_none(value):
     """Return True if value is None, False otherwise. Use `is`, not `==`."""
     # 中文翻译：以上英文文档字符串用于说明对象的用途、输入和输出。
-    # TODO: implement（待完成：实现此函数）
-    raise NotImplementedError
+    return value is None
 
 
 def swap(a, b):
